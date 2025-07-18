@@ -55,5 +55,5 @@ This SQL project focuses on analyzing menu and order data from a restaurant's re
 ---
 
 ## 📬 Contact
-If you're interested in discussing this project or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or message here on GitHub.
+If you're interested in discussing this project or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vamsi-krishna-manukonda-62b84075/) or message here on GitHub.
 
